@@ -175,6 +175,9 @@ params:
 
 menus:
   main:
+  - name: Kubecon
+    url: /kubecon
+    weight: 5
   - name: Documentation
     url: /flux
     weight: 10
