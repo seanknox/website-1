@@ -175,7 +175,7 @@ params:
 
 menus:
   main:
-  - name: Kubecon
+  - name: KubeCon!
     url: /kubecon
     weight: 5
   - name: Documentation
